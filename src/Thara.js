@@ -11,6 +11,7 @@ function Thara() {
       hello
       <div>Thara</div>
       <button onClick={handleClick}>click me</button>
+      <div>Thara rafiu is an intelligent girl</div>
     </div>
   );
 }
