@@ -8,7 +8,7 @@ function Thara() {
 
   return (
     <div className="App">
-      ghjiis<div>yes</div>
+      ghjiis<div>yeddddddddddffffddddddddds</div>
     </div>
   );
 }
