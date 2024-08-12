@@ -6,7 +6,11 @@ function Thara() {
     console.log("rafiiiiiiiiiiiii");
   };
 
-  return <div className="App">hiiiiiiiiiiiiiiiiiiiiiiiiii</div>;
+  return (
+    <div className="App">
+      ghjiis<div>yes</div>
+    </div>
+  );
 }
 
 export default Thara;
