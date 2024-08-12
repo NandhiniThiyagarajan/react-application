@@ -6,6 +6,8 @@ function Thara() {
     <div className="App">
       hello
       <div>Thara</div>
+      <div>Thara rafiu is a intelligent girl</div>
+      <div>Rafiu</div>
     </div>
   );
 }
