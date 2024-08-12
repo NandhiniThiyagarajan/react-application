@@ -19,6 +19,10 @@ function Thara() {
       <div>Thara rafiu is an intelligent girl</div>
       <div>Thara rafiu is an intelligent girl</div>
       <div>Thara rafiu is an intelligent girl</div>
+<div>hiiiiiiiii</div>
+<div>hello</div>
+
+  
     </div>
   );
 }
