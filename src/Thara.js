@@ -1,15 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Thara from "./Thara.js";
 
-function App() {
+function Thara() {
   return (
     <div className="App">
       hello
-      <div>App</div>
-      <Thara />
+      <div>Thara</div>
     </div>
   );
 }
 
-export default App;
+export default Thara;
