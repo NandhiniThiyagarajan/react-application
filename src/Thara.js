@@ -15,6 +15,10 @@ function Thara() {
       <div>this is so irritating</div>
       <div> in every hardship, there is a relief</div>
       <div>i m uwdhuqwhku</div>
+      <div>hiiii</div>
+      <div>Thara rafiu is an intelligent girl</div>
+      <div>Thara rafiu is an intelligent girl</div>
+      <div>Thara rafiu is an intelligent girl</div>
     </div>
   );
 }
